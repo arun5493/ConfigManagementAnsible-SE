@@ -2,7 +2,7 @@
 ## Unity ID: ajagana
 ## Name : Arun Jaganathan
 
-<a href="https://youtu.be/RPMPBxeojOw" target="_blank"><img src="videothumbnail.png" 
+<a href="https://youtu.be/RPMPBxeojOw" target="_blank"><img src="videothumbnail.jpg" 
 alt="HW5 Ansible Vagrant" width="240" height="180" border="10" /></a>
 
 Screencast Link : Click Here[https://youtu.be/RPMPBxeojOw]
